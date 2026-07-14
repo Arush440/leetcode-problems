@@ -30,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Arush440/leetcode-problems/tree/master/0141-linked-list-cycle) |
+## Array
+|  |
+| ------- |
+| [0766-toeplitz-matrix](https://github.com/Arush440/leetcode-problems/tree/master/0766-toeplitz-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0766-toeplitz-matrix](https://github.com/Arush440/leetcode-problems/tree/master/0766-toeplitz-matrix) |
 <!---LeetCode Topics End-->

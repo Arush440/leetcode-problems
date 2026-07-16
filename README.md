@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Arush440/leetcode-problems/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Arush440/leetcode-problems/tree/master/1025-divisor-game) |
 | [2235-add-two-integers](https://github.com/Arush440/leetcode-problems/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Arush440/leetcode-problems/tree/master/2469-convert-the-temperature) |
@@ -63,9 +64,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Arush440/leetcode-problems/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Arush440/leetcode-problems/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Arush440/leetcode-problems/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Arush440/leetcode-problems/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->

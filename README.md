@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/Arush440/leetcode-problems/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/Arush440/leetcode-problems/tree/master/2652-sum-multiples) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Arush440/leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Arush440/leetcode-problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Arush440/leetcode-problems/tree/master/0867-transpose-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Arush440/leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Arush440/leetcode-problems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Arush440/leetcode-problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Matrix
 |  |
 | ------- |

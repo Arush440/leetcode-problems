@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Arush440/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Arush440/leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Arush440/leetcode-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Array
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Arush440/leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Arush440/leetcode-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Arush440/leetcode-problems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Arush440/leetcode-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Arush440/leetcode-problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Matrix
 |  |
@@ -105,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Arush440/leetcode-problems/tree/master/1512-number-of-good-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Arush440/leetcode-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Sorting
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Arush440/leetcode-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->

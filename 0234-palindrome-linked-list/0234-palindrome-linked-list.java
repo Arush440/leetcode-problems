@@ -10,16 +10,13 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        if(head==null||head.next==null) return true;
         Stack<Integer> s=new Stack<>();
         ListNode stack=head;
-        ListNode fast=head;
-        while(fast!=null && fast.next!=null){
+        while(stack!=null){
             s.push(stack.val);
             stack=stack.next;
-            fast=fast.next.next;
         }
-        if(fast!=null) stack=stack.next;
+        stack=head;
         while(stack!=null){
             if(stack.val!=s.pop()) return false;
             stack=stack.next;

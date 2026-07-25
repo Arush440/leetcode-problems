@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Arush440/leetcode-problems/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Arush440/leetcode-problems/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/Arush440/leetcode-problems/tree/master/2652-sum-multiples) |
+| [3536-maximum-product-of-two-digits](https://github.com/Arush440/leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Arush440/leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Arush440/leetcode-problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Arush440/leetcode-problems/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arush440/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Arush440/leetcode-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3536-maximum-product-of-two-digits](https://github.com/Arush440/leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Stack
 |  |
 | ------- |

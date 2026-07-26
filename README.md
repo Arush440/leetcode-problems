@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Arush440/leetcode-problems/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Arush440/leetcode-problems/tree/master/0292-nim-game) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Arush440/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/Arush440/leetcode-problems/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Arush440/leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Arush440/leetcode-problems/tree/master/1512-number-of-good-pairs) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Arush440/leetcode-problems/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/Arush440/leetcode-problems/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Arush440/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0766-toeplitz-matrix](https://github.com/Arush440/leetcode-problems/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Arush440/leetcode-problems/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arush440/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Arush440/leetcode-problems/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/Arush440/leetcode-problems/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Arush440/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arush440/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Arush440/leetcode-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3536-maximum-product-of-two-digits](https://github.com/Arush440/leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |

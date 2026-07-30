@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Arush440/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Arush440/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arush440/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/Arush440/leetcode-problems/tree/master/1089-duplicate-zeros) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Arush440/leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Arush440/leetcode-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Array
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Arush440/leetcode-problems/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Arush440/leetcode-problems/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arush440/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/Arush440/leetcode-problems/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Arush440/leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Arush440/leetcode-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arush440/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |

@@ -187,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Arush440/leetcode-problems/tree/master/0164-maximum-gap) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Arush440/leetcode-problems/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->

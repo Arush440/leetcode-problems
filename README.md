@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Arush440/leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0709-to-lower-case](https://github.com/Arush440/leetcode-problems/tree/master/0709-to-lower-case) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Arush440/leetcode-problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Arush440/leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Arush440/leetcode-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2278-percentage-of-letter-in-string](https://github.com/Arush440/leetcode-problems/tree/master/2278-percentage-of-letter-in-string) |

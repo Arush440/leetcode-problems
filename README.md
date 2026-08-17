@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Arush440/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Arush440/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/Arush440/leetcode-problems/tree/master/0268-missing-number) |
+| [1207-unique-number-of-occurrences](https://github.com/Arush440/leetcode-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/Arush440/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Arush440/leetcode-problems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Two Pointers
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Arush440/leetcode-problems/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arush440/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Arush440/leetcode-problems/tree/master/1089-duplicate-zeros) |
+| [1207-unique-number-of-occurrences](https://github.com/Arush440/leetcode-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Arush440/leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Arush440/leetcode-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arush440/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |

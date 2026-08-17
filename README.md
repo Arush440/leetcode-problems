@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Arush440/leetcode-problems/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Arush440/leetcode-problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Arush440/leetcode-problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Arush440/leetcode-problems/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Arush440/leetcode-problems/tree/master/0292-nim-game) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Arush440/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Arush440/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Arush440/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Arush440/leetcode-problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Arush440/leetcode-problems/tree/master/0268-missing-number) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Arush440/leetcode-problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Arush440/leetcode-problems/tree/master/1207-unique-number-of-occurrences) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Arush440/leetcode-problems/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Arush440/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Arush440/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Arush440/leetcode-problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Arush440/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arush440/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Arush440/leetcode-problems/tree/master/0392-is-subsequence) |
@@ -275,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Arush440/leetcode-problems/tree/master/0204-count-primes) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Arush440/leetcode-problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Arush440/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arush440/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Arush440/leetcode-problems/tree/master/1089-duplicate-zeros) |
+| [1768-merge-strings-alternately](https://github.com/Arush440/leetcode-problems/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Arush440/leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2460-apply-operations-to-an-array](https://github.com/Arush440/leetcode-problems/tree/master/2460-apply-operations-to-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Arush440/leetcode-problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Arush440/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0709-to-lower-case](https://github.com/Arush440/leetcode-problems/tree/master/0709-to-lower-case) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Arush440/leetcode-problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1768-merge-strings-alternately](https://github.com/Arush440/leetcode-problems/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Arush440/leetcode-problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1903-largest-odd-number-in-string](https://github.com/Arush440/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Arush440/leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |

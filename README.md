@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Arush440/leetcode-problems/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/Arush440/leetcode-problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Arush440/leetcode-problems/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Arush440/leetcode-problems/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/Arush440/leetcode-problems/tree/master/0342-power-of-four) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Arush440/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0164-maximum-gap](https://github.com/Arush440/leetcode-problems/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/Arush440/leetcode-problems/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Arush440/leetcode-problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Arush440/leetcode-problems/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Arush440/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arush440/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Arush440/leetcode-problems/tree/master/0204-count-primes) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Arush440/leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
@@ -254,4 +257,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Arush440/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Arush440/leetcode-problems/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Arush440/leetcode-problems/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Arush440/leetcode-problems/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Arush440/leetcode-problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

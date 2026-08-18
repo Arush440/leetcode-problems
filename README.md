@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Arush440/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/Arush440/leetcode-problems/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Arush440/leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1323-maximum-69-number](https://github.com/Arush440/leetcode-problems/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/Arush440/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/Arush440/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/Arush440/leetcode-problems/tree/master/2235-add-two-integers) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1323-maximum-69-number](https://github.com/Arush440/leetcode-problems/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Arush440/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |

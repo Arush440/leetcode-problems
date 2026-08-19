@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/Arush440/leetcode-problems/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/Arush440/leetcode-problems/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/Arush440/leetcode-problems/tree/master/0511-game-play-analysis-i) |
+| [1193-monthly-transactions-i](https://github.com/Arush440/leetcode-problems/tree/master/1193-monthly-transactions-i) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Arush440/leetcode-problems/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Newton's Method
 |  |

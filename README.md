@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Arush440/leetcode-problems/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Arush440/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Arush440/leetcode-problems/tree/master/0061-rotate-list) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Arush440/leetcode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Arush440/leetcode-problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Arush440/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Arush440/leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Arush440/leetcode-problems/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Arush440/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Arush440/leetcode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/Arush440/leetcode-problems/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/Arush440/leetcode-problems/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Arush440/leetcode-problems/tree/master/0204-count-primes) |

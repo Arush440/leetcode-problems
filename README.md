@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Arush440/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Arush440/leetcode-problems/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Arush440/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Arush440/leetcode-problems/tree/master/0061-rotate-list) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Arush440/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/Arush440/leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Arush440/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arush440/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Arush440/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Arush440/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/Arush440/leetcode-problems/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Arush440/leetcode-problems/tree/master/0392-is-subsequence) |
@@ -292,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Arush440/leetcode-problems/tree/master/0202-happy-number) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Arush440/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

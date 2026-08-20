@@ -12,6 +12,7 @@ class Solution {
             else arr2.add(nums[i]);
         }
         arr1.addAll(arr2);
-        return arr1.stream().mapToInt(Integer::intValue).toArray();
+        for(int i=0;i<nums.length;i++) nums[i]=arr1.get(i);
+        return nums;
     }
 }

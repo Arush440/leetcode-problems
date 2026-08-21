@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Arush440/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Arush440/leetcode-problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Arush440/leetcode-problems/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/Arush440/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arush440/leetcode-problems/tree/master/0268-missing-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Arush440/leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Arush440/leetcode-problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Arush440/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/Arush440/leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Arush440/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Arush440/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arush440/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Arush440/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Arush440/leetcode-problems/tree/master/0520-detect-capital) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Arush440/leetcode-problems/tree/master/0015-3sum) |
 | [0164-maximum-gap](https://github.com/Arush440/leetcode-problems/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Arush440/leetcode-problems/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Arush440/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arush440/leetcode-problems/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Arush440/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arush440/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |

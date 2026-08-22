@@ -11,7 +11,6 @@
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
         if(lists.length<1) return null;
-        ListNode merged=lists[0];
         int interval=1;
         while(interval < lists.length){
             for(int i = 0; i + interval < lists.length; i += interval * 2){

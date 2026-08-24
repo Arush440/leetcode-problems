@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Arush440/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/Arush440/leetcode-problems/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Arush440/leetcode-problems/tree/master/2469-convert-the-temperature) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Arush440/leetcode-problems/tree/master/2523-closest-prime-numbers-in-range) |
 | [2652-sum-multiples](https://github.com/Arush440/leetcode-problems/tree/master/2652-sum-multiples) |
 | [3536-maximum-product-of-two-digits](https://github.com/Arush440/leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Arush440/leetcode-problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Arush440/leetcode-problems/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Arush440/leetcode-problems/tree/master/2523-closest-prime-numbers-in-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Arush440/leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
@@ -313,14 +315,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Arush440/leetcode-problems/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Arush440/leetcode-problems/tree/master/2523-closest-prime-numbers-in-range) |
 ## Sieve Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Arush440/leetcode-problems/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Arush440/leetcode-problems/tree/master/2523-closest-prime-numbers-in-range) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Arush440/leetcode-problems/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Arush440/leetcode-problems/tree/master/2523-closest-prime-numbers-in-range) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |

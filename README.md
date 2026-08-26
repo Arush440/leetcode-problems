@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Arush440/leetcode-problems/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Arush440/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/Arush440/leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Arush440/leetcode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/Arush440/leetcode-problems/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Arush440/leetcode-problems/tree/master/0169-majority-element) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Arush440/leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0766-toeplitz-matrix](https://github.com/Arush440/leetcode-problems/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Arush440/leetcode-problems/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Arush440/leetcode-problems/tree/master/1672-richest-customer-wealth) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Arush440/leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Arush440/leetcode-problems/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Arush440/leetcode-problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Arush440/leetcode-problems/tree/master/1929-concatenation-of-array) |

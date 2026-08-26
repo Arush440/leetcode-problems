@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Arush440/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Arush440/leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Arush440/leetcode-problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Arush440/leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Arush440/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Arush440/leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Arush440/leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Arush440/leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Arush440/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Arush440/leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Arush440/leetcode-problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Arush440/leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
@@ -441,4 +444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Arush440/leetcode-problems/tree/master/0881-boats-to-save-people) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Arush440/leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->

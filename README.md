@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Arush440/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arush440/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Arush440/leetcode-problems/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Arush440/leetcode-problems/tree/master/0443-string-compression) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arush440/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Arush440/leetcode-problems/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/Arush440/leetcode-problems/tree/master/1768-merge-strings-alternately) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Arush440/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arush440/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Arush440/leetcode-problems/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Arush440/leetcode-problems/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Arush440/leetcode-problems/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Arush440/leetcode-problems/tree/master/0709-to-lower-case) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Arush440/leetcode-problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |

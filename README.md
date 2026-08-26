@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Arush440/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Arush440/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Arush440/leetcode-problems/tree/master/0443-string-compression) |
+| [0881-boats-to-save-people](https://github.com/Arush440/leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arush440/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Arush440/leetcode-problems/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/Arush440/leetcode-problems/tree/master/1768-merge-strings-alternately) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Arush440/leetcode-problems/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Arush440/leetcode-problems/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Arush440/leetcode-problems/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/Arush440/leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/Arush440/leetcode-problems/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arush440/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Arush440/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Arush440/leetcode-problems/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Arush440/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arush440/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0881-boats-to-save-people](https://github.com/Arush440/leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arush440/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Arush440/leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arush440/leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/Arush440/leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [1323-maximum-69-number](https://github.com/Arush440/leetcode-problems/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Arush440/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
@@ -428,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Arush440/leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Arush440/leetcode-problems/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->

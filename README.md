@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Arush440/leetcode-problems/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Arush440/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arush440/leetcode-problems/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/Arush440/leetcode-problems/tree/master/0383-ransom-note) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Arush440/leetcode-problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Arush440/leetcode-problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Arush440/leetcode-problems/tree/master/1207-unique-number-of-occurrences) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Arush440/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Arush440/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arush440/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Arush440/leetcode-problems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Arush440/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Arush440/leetcode-problems/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Arush440/leetcode-problems/tree/master/0520-detect-capital) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arush440/leetcode-problems/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Arush440/leetcode-problems/tree/master/0383-ransom-note) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Arush440/leetcode-problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1512-number-of-good-pairs](https://github.com/Arush440/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 ## Binary Search

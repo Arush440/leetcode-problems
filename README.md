@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Arush440/leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Arush440/leetcode-problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Arush440/leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Arush440/leetcode-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Arush440/leetcode-problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Arush440/leetcode-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Arush440/leetcode-problems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Arush440/leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [1323-maximum-69-number](https://github.com/Arush440/leetcode-problems/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Arush440/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Arush440/leetcode-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Sliding Window
 |  |
 | ------- |

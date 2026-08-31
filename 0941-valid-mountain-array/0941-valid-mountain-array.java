@@ -7,11 +7,11 @@ class Solution {
             if(arr[left]<arr[left+1]) left++;
             else break;
         }
+        if(left==arr.length-1 ||left==0) return false; 
         while(right>left){
             if(arr[right]<arr[right-1]) right--;
             else return false;
         }
-        if(left==arr.length-1 ||right==0) return false; 
         return true;
     }
 }

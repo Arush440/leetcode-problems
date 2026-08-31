@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Arush440/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Arush440/leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Arush440/leetcode-problems/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/Arush440/leetcode-problems/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arush440/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0766-toeplitz-matrix](https://github.com/Arush440/leetcode-problems/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Arush440/leetcode-problems/tree/master/0867-transpose-matrix) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Arush440/leetcode-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Arush440/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Arush440/leetcode-problems/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/Arush440/leetcode-problems/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arush440/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/Arush440/leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arush440/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Arush440/leetcode-problems/tree/master/0561-array-partition) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Arush440/leetcode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Bucket Sort
 |  |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Arush440/leetcode-problems/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/Arush440/leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [1323-maximum-69-number](https://github.com/Arush440/leetcode-problems/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Arush440/leetcode-problems/tree/master/1903-largest-odd-number-in-string) |

@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Arush440/leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Arush440/leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/Arush440/leetcode-problems/tree/master/0896-monotonic-array) |
+| [0941-valid-mountain-array](https://github.com/Arush440/leetcode-problems/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arush440/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Arush440/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Arush440/leetcode-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |

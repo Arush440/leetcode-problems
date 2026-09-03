@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Arush440/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Arush440/leetcode-problems/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arush440/leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/Arush440/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/Arush440/leetcode-problems/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Arush440/leetcode-problems/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Arush440/leetcode-problems/tree/master/0875-koko-eating-bananas) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Arush440/leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Arush440/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Arush440/leetcode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Arush440/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Arush440/leetcode-problems/tree/master/1732-find-the-highest-altitude) |

@@ -1,0 +1,30 @@
+class Solution {
+    public int smallestDistancePair(int[] nums, int k) {
+        Arrays.sort(nums);
+        int low = 0;
+        int high = nums[nums.length - 1] - nums[0];
+        while(low < high){
+            int mid = (low+high)/2;
+            int n = helper(nums, mid);
+            if(n < k)
+                low = mid + 1;
+            else
+                high = mid;
+        }
+
+        return low;
+        
+    }
+
+    public static int helper(int[] nums, int mid){
+        int count = 0;
+        int left = 0;
+        for(int i=0; i<nums.length; i++){
+            while(nums[i] - nums[left] > mid)
+                left++;
+            count += i - left;
+
+        }
+        return count;
+    }
+}
